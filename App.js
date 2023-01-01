@@ -1,4 +1,4 @@
-let socket = new WebSocket("ws://localhost:3000/");
+let socket = new WebSocket("ws://http://7a47-188-0-188-195.ngrok.io");
 
 function send_msg(){
 
